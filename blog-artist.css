@@ -1,0 +1,52 @@
+.main-heading{
+	font-size: 60px;
+}
+.mileypicture{
+	height: 300px;
+	width: 300px;
+	display: inline-block;
+	padding: 1px 1px 30px 30px;
+}
+.sub-heading1{
+	color: purple;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-top: 15px;
+	margin-bottom: 0px;
+}
+.sub-heading2{
+	color: lightgreen;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-top: 15px; 
+	margin-bottom: 0px;
+}
+.sub-heading3{
+	color: mediumvioletred;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-top: 15px;
+	margin-bottom: 0px;
+}
+.list{
+	list-style:none
+}
+.link{
+	color: blueviolet;
+	background-color: turquoise;
+	text-decoration: none;
+}
+.sites{
+	background-color:grey;
+	text-align: center;
+}
+.main-paragraph{
+	color: deepskyblue;
+	padding:50px ;
+	font-size: 20px;
+	border: 10px solid darkred;
+	background-color: lightgreen;
+	font-weight: bold;
+	font-style: italic;
+	margin: 5px;
+}
